@@ -1,0 +1,17 @@
+C:\other\visual studio saves\nedoDatabase\nedoDatabase\bin\Debug\net6.0-windows\nedoDatabase.exe
+C:\other\visual studio saves\nedoDatabase\nedoDatabase\bin\Debug\net6.0-windows\nedoDatabase.deps.json
+C:\other\visual studio saves\nedoDatabase\nedoDatabase\bin\Debug\net6.0-windows\nedoDatabase.runtimeconfig.json
+C:\other\visual studio saves\nedoDatabase\nedoDatabase\bin\Debug\net6.0-windows\nedoDatabase.dll
+C:\other\visual studio saves\nedoDatabase\nedoDatabase\bin\Debug\net6.0-windows\nedoDatabase.pdb
+C:\other\visual studio saves\nedoDatabase\nedoDatabase\obj\Debug\net6.0-windows\nedoDatabase.csproj.AssemblyReference.cache
+C:\other\visual studio saves\nedoDatabase\nedoDatabase\obj\Debug\net6.0-windows\nedoDatabase.Form1.resources
+C:\other\visual studio saves\nedoDatabase\nedoDatabase\obj\Debug\net6.0-windows\nedoDatabase.csproj.GenerateResource.cache
+C:\other\visual studio saves\nedoDatabase\nedoDatabase\obj\Debug\net6.0-windows\nedoDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\other\visual studio saves\nedoDatabase\nedoDatabase\obj\Debug\net6.0-windows\nedoDatabase.AssemblyInfoInputs.cache
+C:\other\visual studio saves\nedoDatabase\nedoDatabase\obj\Debug\net6.0-windows\nedoDatabase.AssemblyInfo.cs
+C:\other\visual studio saves\nedoDatabase\nedoDatabase\obj\Debug\net6.0-windows\nedoDatabase.csproj.CoreCompileInputs.cache
+C:\other\visual studio saves\nedoDatabase\nedoDatabase\obj\Debug\net6.0-windows\nedoDatabase.dll
+C:\other\visual studio saves\nedoDatabase\nedoDatabase\obj\Debug\net6.0-windows\refint\nedoDatabase.dll
+C:\other\visual studio saves\nedoDatabase\nedoDatabase\obj\Debug\net6.0-windows\nedoDatabase.pdb
+C:\other\visual studio saves\nedoDatabase\nedoDatabase\obj\Debug\net6.0-windows\nedoDatabase.genruntimeconfig.cache
+C:\other\visual studio saves\nedoDatabase\nedoDatabase\obj\Debug\net6.0-windows\ref\nedoDatabase.dll
